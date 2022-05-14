@@ -1,0 +1,1 @@
+python -m PyInstaller --clean --onefile -i NONE --name "growcasino" growcasino.py
