@@ -3,8 +3,8 @@ growcasino.net referral code abuse helper written in python
 time = wls = money
 
 # 🚀 Setup
-1. Download from releases
-2. Update google chrome & chromedriver if needed
+1. Download from [releases](https://github.com/entity9/growcasino-abuse/releases/tag/growcasino-abuse)
+3. Update [google chrome](chrome://settings/help) & [chromedriver](https://chromedriver.chromium.org/) if needed
 
 # 💸 Tutorial
 1. Remove ethernet cable/disconnect from wifi if you are connected to any
