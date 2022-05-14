@@ -1,6 +1,5 @@
 from selenium import webdriver
 import random, time, string, os, json, requests, json, warnings
-from twocaptcha import TwoCaptcha
 refcodes = "system";password = "Password332!";sleeptime = 1.0;global solution;solution = "";words = [];os.system("title growcasino.pwn by sa#0006"); warnings.filterwarnings("ignore", category=DeprecationWarning) 
 def watermark(): print("""\n\n\n\n\n\n
        ___   ____
